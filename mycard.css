@@ -1,0 +1,22 @@
+.image{
+    width:75px;
+}
+
+.main{
+    font-family: "consolas";
+    width:400px;
+    display: block;
+   margin: 0px auto;
+    margin-top:20px;
+    display:flex;
+    justify-content: center;
+    border-bottom:5px dotted paleturquoise;
+    padding:20px;
+    background-color:lightblue;
+    
+}
+.main-about{
+    margin-left:30px;
+    display: block;
+    text-align: center;;
+}
